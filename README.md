@@ -15,5 +15,5 @@ Describe what your project is about and what it does
 3-washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I would like to give credit to the great team of udacity that helps me during the project
 
