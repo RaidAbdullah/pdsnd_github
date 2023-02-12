@@ -7,7 +7,7 @@
 Python project named Bikeshare.
 
 ### Description
-Describe what your project is about and what it does
+it's a program that do some analysis to the major cites in US to uncover bike share usage patterns. 
 
 ### Files used
 1-chicago.csv 
