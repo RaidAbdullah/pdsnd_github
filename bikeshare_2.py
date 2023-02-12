@@ -5,8 +5,8 @@ import numpy as np
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
-MONTHS = ['all', 'january', 'february', 'march', 'april', 'may', 'june']
-DAY = ['all', 'monday', 'tuesday', 'wednesday', 'friday', 'saturday', 'sunday']
+MONTHS = ['all', 'january', 'february', 'march', 'april', 'may', 'june'] """ Array for months"""
+DAY = ['all', 'monday', 'tuesday', 'wednesday', 'friday', 'saturday', 'sunday'] """ Array for days"""
 
 def get_filters():
     """
